@@ -1,0 +1,7 @@
+0 20Pesos
+1 50Pesos
+2 100Pesos
+3 200Pesos
+4 500Pesos
+5 1000Pesos
+6 NotBill
