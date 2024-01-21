@@ -1,6 +1,6 @@
 # NoteVision - A Mobile App for Classifying Philippine Banknote Bills for Blind People
 
-This project is a partial fulfillment of my undergraduate thesis. Technologies used were [Teachable Machine](https://teachablemachine.withgoogle.com/train) for building the model, and [Android Studio](https://developer.android.com/studio) for the building of the app.
+This project is a partial fulfillment of my undergraduate thesis. Technologies used were Roboflow for building the model, and [Android Studio](https://developer.android.com/studio) for the building of the app.
 
 <img src="images/1.jpg?raw=true" alt="Demo 1" width="300" height="540"/> <img src="images/2.jpg?raw=true" alt="Demo 2" width="300" height="540"/>
 
